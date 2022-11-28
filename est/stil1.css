@@ -1,0 +1,178 @@
+html{
+    background-color: black;
+    background-image:url(../img/2.gif) ;
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+
+.xul{
+    list-style-type: none;
+    margin: 20px;
+    padding: 20px;
+    overflow: hidden;
+    background-color:black;
+}
+.xli{
+    float:left;
+}
+.xli a{
+    color:white;
+    text-align: center;
+    padding: 25px;
+    text-decoration: none;
+}
+.xli a:hover{
+    background-color: rgb(202, 46, 46);
+}
+.caj1{
+    font-family: "Algerian";font-size: 30px;color: rgb(244, 238, 238);
+    
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
+.caj2{
+    float:left;
+    color: aliceblue;
+}
+.caj3{
+   float: left;
+   color: aliceblue;
+}
+.caj4{
+    font-family: "Algerian";font-size: 15px;color: rgb(250, 244, 244);
+    
+}´
+.caj5{
+    float: left;
+    color: aliceblue;
+}
+.caj6{
+    float: left;color: aliceblue;
+}
+.caj7{
+    font-family: "Algerian";font-size: 15px;color: rgb(244, 237, 237);
+}
+.caj8{
+    float: left;color: aliceblue;
+}
+.caj9{
+    float: right;
+    color: aliceblue;
+}
+.caj10{
+    font-family: "Algerian";font-size: 15px;color: rgb(244, 239, 239);
+}
+.caj11{
+    float: right;color: aliceblue;
+}
+.caj12{
+ 
+    float: left;color: aliceblue;
+}
+.caj13{
+    font-family: "Algerian";font-size: 15px;color: rgb(249, 244, 244);
+}
+.caj14{
+    float: left;color: aliceblue;
+}
+.caj15{
+    float: right;color: aliceblue;
+}
+.caj16{
+    font-family: "Algerian";font-size: 15px;color: rgb(248, 245, 245); 
+}
+.caj17{
+    float: left;color: aliceblue;
+}
+.caj18{
+    float: left;color: aliceblue;
+}
+.caj19{
+    font-family: "Algerian";font-size: 15px;color: rgb(243, 240, 240); 
+}
+.caj20{
+    float: right;color: aliceblue;}
+.caj21{
+        float: right;color: aliceblue;
+}
+.caj22{
+    font-family: "Algerian";font-size: 15px;color: rgb(247, 245, 245);
+}
+.caj23{
+    float: left;color: aliceblue;
+}
+.caj24{
+    float: left;color: aliceblue;
+}
+.caj25{
+    font-family: "Algerian";font-size: 15px;color: rgb(254, 250, 250);
+}
+.caj26{
+    float: right;color: aliceblue;
+}
+.caj27{
+    float: left;color: aliceblue;
+}
+.caj28{
+    font-family: "Algerian";font-size: 15px;color: rgb(247, 245, 245);
+}
+.caj29{
+    float: left;color: aliceblue;
+
+}
+.caj30{
+   float: left; color: aliceblue;
+}
+.item{
+    width: 400px;
+    height: 100px;
+}
+.caj31{
+    font-family: "Algerian";font-size: 15px;color: rgb(242, 236, 236);
+}
+.caj32{
+    font-family: "Algerian";font-size: 15px;color: rgb(247, 244, 244);
+}
+.caj33{
+    font-family: "Algerian";font-size: 15px;color: rgb(243, 236, 236);
+}
+.caj34{
+    font-family: "Algerian";font-size: 15px;color: rgb(247, 241, 241);
+    
+}
+.caj35{
+    font-family: "Algerian";font-size: 15px;color: rgb(250, 246, 246);
+}
+.caj36{
+    font-family: "Algerian";font-size: 15px;color: rgb(252, 250, 250);
+}
+.caj37{
+    font-family: "Algerian";font-size: 15px;color: rgb(241, 237, 237);
+}
+.caj38{
+    font-family: "Algerian";font-size: 15px;color: rgb(254, 247, 247);
+}
+.caj39{
+    font-family: "Algerian";font-size: 15px;color: rgb(249, 246, 246);
+}
+.caj40{
+    font-family: "Algerian";font-size: 15px;color: rgb(244, 240, 240);
+}
+.caj41{
+    font-family: "Algerian";font-size: 15px;color: rgb(250, 246, 246);
+}
+.caj42{
+    font-family: "Algerian";font-size: 15px;color: rgb(255, 251, 251);
+}
+.caj43{
+    font-family: "Algerian";font-size: 15px;color: rgb(250, 249, 249);
+}
+.caj44{
+    font-family: "Algerian";font-size: 15px;color: rgb(248, 244, 244);
+}
+.caj45{
+    font-family: "Algerian";font-size: 15px;color: rgb(251, 242, 242);
+}
